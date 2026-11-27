@@ -14,9 +14,7 @@ Más allá del teclado, me gusta desconectar, escuchar buena música 🎧, echar
 
 ### 🛠️ Mis Proyectos y Prácticas
 
-Bienvenido a mi espacio personal en GitHub. Aquí iré subiendo los ejercicios, prácticas de clase y pequeños proyectos que vaya desarrollando durante el curso para ir viendo mi evolución. Si algún repositorio te sirve de ayuda o inspiración, ¡déjale una ⭐!
-
-> *"Primero resuelve el problema. Entonces, escribe el código."* — John Johnson
+Bienvenido a mi espacio personal en GitHub. Aquí iré subiendo los ejercicios, prácticas de clase y pequeños proyectos que vaya desarrollando durante el curso para ir viendo mi evolución.
 
 ---
 
@@ -36,7 +34,7 @@ Lo que estoy aprendiendo y usando en mi día a día 👇
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Lenguajes** | `C#` · `HTML5` · `CSS3` |
+| **Lenguajes** | `C#` · `HTML5` |
 | **Bases de Datos** | `MySQL` · `SQL` |
 | **Entorno y Control** | `Visual Studio` · `VS Code` · `Git` · `GitHub` |
 
