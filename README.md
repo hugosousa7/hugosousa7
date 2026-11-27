@@ -7,8 +7,8 @@
 
 ### 🚀 Sobre mí
 
-<img align="right" alt="Coding Setup" width="320" src="<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/e2933042-e662-4af8-9c24-bdf4b9bcf9f2" />
-" />
+<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/e2933042-e662-4af8-9c24-bdf4b9bcf9f2" />
+
 
 - 🎓 Actualmente estoy cursando **1º de Desarrollo de Aplicaciones Web (DAW)** en el **IES Luis Vives** (Leganés).
 - 🌆 Vivo en **Leganés, Madrid**.
