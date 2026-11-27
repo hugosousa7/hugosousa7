@@ -41,10 +41,6 @@ Lo que estoy aprendiendo y usando en mi día a día 👇
 
 ---
 
-### 📊 Estadísticas
 
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" />
-</p>
 
 
