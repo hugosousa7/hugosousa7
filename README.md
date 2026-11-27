@@ -1,4 +1,4 @@
-<img width="850" height="400" alt="image" src="https://github.com/user-attachments/assets/e2933042-e662-4af8-9c24-bdf4b9bcf9f2" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/e2933042-e662-4af8-9c24-bdf4b9bcf9f2" />
 
 
 # ¡Hola! Soy Hugo Sousa Salas 👋
