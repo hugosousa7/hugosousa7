@@ -1,41 +1,42 @@
-<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/e2933042-e662-4af8-9c24-bdf4b9bcf9f2" />
+<p align="center">
+  <img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/e2933042-e662-4af8-9c24-bdf4b9bcf9f2" />
+</p>
 
+## 👋 Hola, soy Hugo Sousa Salas 💻
 
-# ¡Hola! Soy Hugo Sousa Salas 👋
-### Estudiante de 1º DAW en el IES Luis Vives · Leganés, Madrid 📍
+Soy estudiante de **1º de Desarrollo de Aplicaciones Web (DAW)** en el **IES Luis Vives** 📍 y vivo en **Leganés (Madrid)**. Me estoy adentrando en el mundo de la programación con ganas de entender cómo funciona todo por dentro y crear mis propias aplicaciones.
 
-> *"Aprendiendo C# y desarrollo web, construyendo proyectos paso a paso."*
+Mi enfoque actual está en dominar las bases de la programación orientada a objetos con **C#** ⚙️, además de empezar a construir interfaces web y trabajar con bases de datos. Me gusta aprender practicando, picando código y resolviendo problemas paso a paso 🚀.
 
----
-
-### 🚀 Sobre mí
-
-
-
-
-- 🎓 Actualmente estoy cursando **1º de Desarrollo de Aplicaciones Web (DAW)** en el **IES Luis Vives** (Leganés).
-- 🌆 Vivo en **Leganés, Madrid**.
-- 💻 Me interesa el desarrollo web tanto por dentro (backend) como por fuera (frontend).
-- 🌱 Ahora mismo estoy aprendiendo a programar con **C#**, además de las bases de la web y bases de datos.
-- 🎯 **Objetivo:** Seguir mejorando mi lógica de programación y subir mis proyectos de clase aquí.
-
-<br clear="right"/>
+Más allá del teclado, me gusta desconectar, escuchar buena música 🎧, echar partidas a videojuegos 🎮 y pasar buenos ratos con amigos. Siempre abierto a aprender cosas nuevas y mejorar cada día.
 
 ---
 
-### 🛠️ Lenguajes y Herramientas
+### 🛠️ Mis Proyectos y Prácticas
 
-| Área | Tecnologías |
-| :--- | :--- |
-| **Lenguajes** | `C#` · `HTML5` · |
-| **Bases de datos** | `MySQL` |
-| **Herramientas** | `Visual Studio` · `VS Code` · `Git` · `GitHub` |
+Bienvenido a mi espacio personal en GitHub. Aquí iré subiendo los ejercicios, prácticas de clase y pequeños proyectos que vaya desarrollando durante el curso para ir viendo mi evolución. Si algún repositorio te sirve de ayuda o inspiración, ¡déjale una ⭐!
+
+> *"Primero resuelve el problema. Entonces, escribe el código."* — John Johnson
 
 ---
 
-### 📫 Conecta conmigo
+### 📫 Contacto
+
+Si quieres comentar algún proyecto o hablar de código, puedes escribirme por aquí:
 
 - 🐙 **GitHub:** [://github.com](https://://github.com)
 - 📧 **Correo personal:** [minisousita7@gmail.com](mailto:minisousita7@gmail.com)
-- 🏫 **Correo EducaMadrid:** [hugo.sousa@educa.madrid.org](mailto:hugo.sousa@educa.madrid.org)
+- 🏫 **Correo del centro:** [hugo.sousa@educa.madrid.org](mailto:hugo.sousa@educa.madrid.org)
+
+---
+
+### 💻 Mi Stack Actual
+
+Lo que estoy aprendiendo y usando en mi día a día 👇
+
+| Categoría | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Lenguajes** | `C#` · `HTML5` · `CSS3` |
+| **Bases de Datos** | `MySQL` · `SQL` |
+| **Entorno y Control** | `Visual Studio` · `VS Code` · `Git` · `GitHub` |
 
